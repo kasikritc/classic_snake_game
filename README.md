@@ -8,7 +8,7 @@ This game is an attempt to duplicate the Classic Snake Game found in old cell ph
 
 # Files
 
-data: the folder that contains images that are used in the game
-Snake.py: the class of the snake character in the game
-Target.py: the class of the food, which is the target, in the game
-jumping_dino.pyde: the source code of the game which causes the game to animate and run properly
+data: the folder that contains images that are used in the game<br>
+Snake.py: the class of the snake character in the game<br>
+Target.py: the class of the food, which is the target, in the game<br>
+jumping_dino.pyde: the source code of the game which causes the game to animate and run properly<br>
